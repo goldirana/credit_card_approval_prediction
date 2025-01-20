@@ -26,7 +26,8 @@ FLAG_EMAIL:	Is there an email
 OCCUPATION_TYPE:	Occupation	
 CNT_FAM_MEMBERS:	Family size
 
-#### Metadata: application_record.csv
+#### Metadata: application_record.csv 
+
 
 - **ID:** ID associated with a client
 - **MONTHS_BALANCE:** The month of the extracted data
